@@ -1,0 +1,48 @@
+<====Navigation====>
+#####1a#######
+cd ~
+#####End of Question#######
+#####1b#######
+cd /
+#####End of Question#######
+#####1c#######
+cd ..
+#####End of Question#######
+#####1d#######
+ls -l ~
+#####End of Question#######
+#####1e#######
+pwd
+#####End of Question#######
+<====Managing and Using programs====>
+#####2a#######
+sudo apt install inxi
+#####End of Question#######
+#####2b#######
+man inxi
+#####End of Question#######
+#####2c#######
+inxi -A
+#####End of Question#######
+#####2d#######
+sudo apt remove inxi
+#####End of Question#######
+#####2e#######
+sudo apt-get update
+#####End of Question#######
+#####2f#######
+sudo apt-get upgrade
+#####End of Question#######
+<====ssh====>
+#####3a#######
+ssh jamerkel@athena.dialup.mit.edu
+#####End of Question#######
+#####3b#######
+scp jamerkel@athena.dialup.mit.edu:https://tinyurl.com/ya6uga4 ~/pic.png
+#####End of Question#######
+#####3c#######
+exit
+#####End of Question#######
+#####3d#######
+docker scp racecar_docker:~/pic.png ~/Pictures
+#####End of Question#######
