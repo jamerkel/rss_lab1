@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yet if hope has flown away
 Grains of the golden sand--
 I stand amid the roar
@@ -15,3 +16,15 @@ In a vision, or in none,
 One from the pitiless wave?
 You are not wrong, who deem
 Them with a tighter clasp?
+=======
+In a night, or in a day,
+O God! can I not grasp
+All that we see or seem
+That my days have been a dream;
+That my days have been a dream;
+Thus much let me avow--
+Of a surf-tormented shore,
+Them with a tighter clasp?
+
+Thus much let me avow--
+>>>>>>> 684e914d9ec1603e0761125006481ea35d0b6ff1
