@@ -1,0 +1,31 @@
+diff --git a/random.txt b/random.txt
+index 47c25e0..7bbb5db 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,14 +1,16 @@
+-But a dream within a dream?O God! can I not grasp
+-While I weep--while I weep!
+-And I hold within my hand
+ Is it therefore the less gone?
++While I weep--while I weep!
++In a night, or in a day,
++All that we see or seem
+ Thus much let me avow--
++In a vision, or in none,
++Them with a tighter clasp?
++You are not wrong, who deem
+ Is it therefore the less gone?
+-One from the pitiless wave?
+-I stand amid the roar
+-Take this kiss upon the brow!
++And, in parting from you now,
++In a night, or in a day,
++In a night, or in a day,
++How few! yet how they creep
+ 
+-Is all that we see or seem
+-
+-Is it therefore the less gone?
+-Through my fingers to the deep,
++One from the pitiless wave?
++Yet if hope has flown away
